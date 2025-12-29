@@ -50,3 +50,31 @@ Year 12 student exploring quantum computing through self-study. Currently studyi
 
 ---
 *This portfolio documents my quantum computing journey as I prepare for university applications in Computer Science and Physics.*
+
+---
+## 📊 Current Progress
+
+### ✅ Completed
+- [x] Repository setup and structure
+- [x] First quantum script created
+- [x] Learning notebook started
+- [x] Project planning documentation
+
+### 🚧 In Progress
+- [ ] Install Python and quantum libraries
+- [ ] Run first quantum circuit
+- [ ] Understand superposition mathematically
+
+### 📅 Week 1 Goals
+1. Understand qubit state representation
+2. Calculate measurement probabilities
+3. Implement quantum coin flip simulation
+
+## 🎯 Recent Updates
+- **$(date +%Y-%m-%d)**: Initial project structure created
+- **$(date +%Y-%m-%d)**: First quantum scripts added
+- **$(date +%Y-%m-%d)**: Learning documentation started
+
+---
+
+*Last updated: $(2025/12/29)*
