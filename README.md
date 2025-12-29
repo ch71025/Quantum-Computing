@@ -73,7 +73,7 @@ Year 12 student exploring quantum computing through self-study. Currently studyi
 ## 🎯 Recent Updates
 - **2025/12/29**: Initial project structure created
 - **2025/12/29**: First quantum scripts added
-- **2025/12/29)**: Learning documentation started
+- **2025/12/29**: Learning documentation started
 
 ---
 
