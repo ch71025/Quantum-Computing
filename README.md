@@ -71,10 +71,10 @@ Year 12 student exploring quantum computing through self-study. Currently studyi
 3. Implement quantum coin flip simulation
 
 ## 🎯 Recent Updates
-- **$(date +%Y-%m-%d)**: Initial project structure created
-- **$(date +%Y-%m-%d)**: First quantum scripts added
-- **$(date +%Y-%m-%d)**: Learning documentation started
+- **2025/12/29**: Initial project structure created
+- **2025/12/29**: First quantum scripts added
+- **2025/12/29)**: Learning documentation started
 
 ---
 
-*Last updated: $(2025/12/29)*
+*Last updated: (2025/12/29)*
