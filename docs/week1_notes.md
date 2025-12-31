@@ -1,6 +1,6 @@
 # Week 1 Notes: Quantum Foundations
 
-## Date: [Today's Date]
+## Date: [30/12/25]
 
 ## Key Concepts Learned
 
